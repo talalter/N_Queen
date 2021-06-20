@@ -1,6 +1,3 @@
-// Tal alter 206292450
-// Or abitbol 312614605
-
 public class Node {
     //A=65
     char state;
